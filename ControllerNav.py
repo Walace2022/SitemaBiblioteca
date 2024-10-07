@@ -9,7 +9,7 @@ class NavegacaoApp(tk.Tk):
         
        
         self.title("Sistema de Biblioteca")
-        self.geometry("500x400")
+        self.geometry("800x600")
         
         
         container = tk.Frame(self)
